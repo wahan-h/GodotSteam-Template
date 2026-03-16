@@ -1,3 +1,5 @@
+Update to 4.6.1 with demos, components, and better code structure upcoming
+
 # Godot Steam Multiplayer
 
 A simple multiplayer game template using Godot and Steam networking. This project demonstrates the integration of **Steamworks** for lobby creation, real-time player movement synchronization, and in-game chat functionality.
